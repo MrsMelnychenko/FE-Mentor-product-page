@@ -80,6 +80,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
 }
+button:hover {
+ cursor: pointer;
+}
 .cart-icon {
     max-width: 40%;
     max-height: 40%;
